@@ -1,4 +1,70 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://anksos.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hello-friend'
+title = 'dead:beef::1'
+paginate = 5
+theme = "hello-friend"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[params]
+  dateform        = "Apr 1, 20011"
+  dateformShort   = "Apr 1"
+  dateformNum     = "2011-04-01"
+  dateformNumTime = "2006-04-01 10:00 -0700"
+
+  # Subtitle for home
+  homeSubtitle = "Engineering Sr. Solutions Architect"
+
+  disableReadOtherPosts = false
+  enableSharingButtons = true
+  showReadingTime = true
+  defaultTheme = "dark"
+
+ 
+  description = "Personal Website and Blog"
+  keywords = "Engineering Architect, Solutions Architect, Engineering"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[author]
+    name = "Anastasis Xouzafeiris"
+    homepage = "https://anksos.github.io"
+    twitter = "https://twitter.com/ankso"
+
+[params.logo]
+    logoText     = "dead:beef::1"
+    logoHomeLink = "/"
+
+# Social icons
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/ankso"
+
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/anksos"
+
+[[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/axouzafeiris/"
+
+[[params.social]]
+    name = "email"
+    url = "mailto:anastasis.ksouzafeiris@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
+[[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"

@@ -1,15 +1,15 @@
 baseURL = 'http://anksos.github.io/'
 languageCode = 'en-us'
-title = 'dead:beef::1'
+title = 'Anastasis Xouzafeiris'
 paginate = 5
 theme = "hello-friend"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [params]
-  dateform        = "Apr 1, 20011"
+  dateform        = "Apr 1, 2011"
   dateformShort   = "Apr 1"
   dateformNum     = "2011-04-01"
-  dateformNumTime = "2006-04-01 10:00 -0700"
+  dateformNumTime = "2011-04-01 10:00 -0700"
 
   # Subtitle for home
   homeSubtitle = "Engineering Sr. Solutions Architect"

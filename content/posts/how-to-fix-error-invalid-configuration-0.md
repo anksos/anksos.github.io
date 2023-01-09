@@ -1,5 +1,5 @@
 ---
-title: "How to fix the error "Invalid Configuration for device ‘0’"
+title: "How to fix the error "Invalid Configuration for device '0'"
 date: 2015-12-22
 draft: false
 toc: false

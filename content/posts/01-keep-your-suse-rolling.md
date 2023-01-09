@@ -1,9 +1,9 @@
 ---
 title: "Keep your SUSE rolling!"
 date: 2011-04-05T12:14:39+01:00
-draft: true
+draft: false
 toc: false
-images:
+images: 
 tags:
   - cli
   - anksos

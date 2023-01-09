@@ -58,16 +58,16 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
     name = "email"
     url = "mailto:anastasis.ksouzafeiris@gmail.com"
 
+[[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-
-[[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
 
 [params.footer]
     trademark = true

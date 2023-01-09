@@ -4,7 +4,7 @@ date: 2011-07-01
 draft: false
 toc: false
 images:
-  - /static/img/3300e-ipv6-certification.png
+  - /3300e-ipv6-certification.png
 tags:
   - anksos
   - network
@@ -40,7 +40,7 @@ as the site says.. if you are familiar with all these things or you know the bas
 
 My certificate:
 
-![](/static/img/3300e-ipv6-certification.png)
+![](/3300e-ipv6-certification.png)
 
 Anyway, it's a very good challenge and opportunity for professional network administrators to change their server to full IPv6 support and for newbies to learn more things about IPv6 and server side stuff.
 

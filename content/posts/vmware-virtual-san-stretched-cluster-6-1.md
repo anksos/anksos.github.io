@@ -4,7 +4,7 @@ date: 2015-12-21
 draft: false
 toc: false
 images: 
-  - /static/img/stretched-cluster-vsan.png
+  - /stretched-cluster-vsan.png
 tags:
   - anksos
   - vmware
@@ -18,4 +18,4 @@ Virtual SAN Stretched Cluster configurations can be spread across distances, pro
 
 > This document only covers the Virtual SAN network bandwidth requirements.
 
-![Stretched-cluster-vsan](/static/img/stretched-cluster-vsan.png)
+![Stretched-cluster-vsan](/stretched-cluster-vsan.png)

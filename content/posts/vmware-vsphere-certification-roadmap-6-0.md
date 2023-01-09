@@ -4,7 +4,7 @@ date: 2015-12-30
 draft: false
 toc: false
 images:
-  - certification-roadmap.png
+  - /certification-roadmap.png
 tags:
   - anksos
   - certifications

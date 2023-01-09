@@ -6,10 +6,10 @@ theme = "hello-friend-ng"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [params]
-  dateform        = "Apr 1, 2011"
-  dateformShort   = "Apr 1"
-  dateformNum     = "2011-04-01"
-  dateformNumTime = "2011-04-01 10:00 -0700"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
   homeSubtitle = "Engineering Sr. Solutions Architect"

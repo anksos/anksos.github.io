@@ -9,6 +9,7 @@ tags:
   - anksos
   - operations
   - suse
+  - sysadmin
 ---
 
 One of the new features the recent major release of openSUSE brought with it that *really* caught my attention is the ability to turn the distribution into a rolling one, effectively bringing it to the camp of the likes of Gentoo and Arch. As a former long time user of Gentoo I thought I’d install openSUSE and take it for a drive – but most importantly add the Tumbleweed repo to it and see what happens from there. 

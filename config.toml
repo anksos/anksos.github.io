@@ -1,9 +1,13 @@
 baseURL = 'http://anksos.github.io/'
 languageCode = 'en-us'
 title = 'Anastasis Xouzafeiris'
-#paginate = 5
+paginate = 10
 theme = "hello-friend-ng"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+enableRobotsTXT = true 
 
 [params]
   dateform        = "Jan 2, 2006"

@@ -1,12 +1,10 @@
 baseURL = 'http://anksos.github.io/'
 languageCode = 'en-us'
 title = 'Anastasis Xouzafeiris'
-paginate = 10
+paginate = 20
 theme = "hello-friend-ng"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
 enableRobotsTXT = true 
 
 [params]
@@ -25,7 +23,7 @@ enableRobotsTXT = true
 
  
   description = "Personal Website and Blog"
-  keywords = "Engineering Architect, Solutions Architect, Engineering"
+  keywords = "Engineering Architect, Solutions Architect, Engineering, DevOps, Platform Engineering"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"

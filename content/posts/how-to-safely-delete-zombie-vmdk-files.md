@@ -1,7 +1,7 @@
 ---
 title: "How to safely delete Zombie VMDK files"
 date: 2016-03-01
-draft: true
+draft: false
 toc: false
 images:
 tags:
